@@ -1,3 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 title: Инструкция
 description: ILSG
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
